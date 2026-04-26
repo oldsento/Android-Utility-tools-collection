@@ -1,2 +1,8 @@
-# Android-Utility-tools-collection
-安卓实用工具汇总/志在收集所有取代闭源软件的方方面面
+其他平台的收集历史：
+- https://meta.appinn.net/u/oldsento/activity/topics
+- https://chii.in/group/netshare
+- https://github.com/oldsento?tab=stars
+- https://bgm.tv/index/84890
+- https://chii.in/group/topic/417219
+- https://bgm.tv/group/topic/410049
+
