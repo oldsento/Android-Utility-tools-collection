@@ -5,7 +5,7 @@
 
 - https://github.com/jia070310/lomenTV-VDS 专为 Android TV 设计的视频播放器，支持 WebDAV 网盘资源导入、智能刮削、记忆续播、IPTV 直播
 
-​- https://github.com/HlONGlin/Glacier 安卓 支持本地目录、WebDAV、Emby 三类来源统一管理，覆盖收藏、检索、浏览、播放和回看等完整流程。
+​- https://github.com/HlONGlin/Glacier 安卓 支持本地目录、WebDAV、Emby 三类来源统一管理，覆盖收藏、检索、浏览、播放和回看等完整流程
 
 - https://github.com/marlboro-advance/mpvEx 安卓/x86 基于MPV，目前没中文，本地/SMB/FTP/WebDAV
 
