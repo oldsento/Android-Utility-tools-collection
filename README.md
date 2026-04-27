@@ -5,3 +5,6 @@
 - https://bgm.tv/index/84890 bgm目录
 - https://bgm.tv/group/topic/410049 bgm汇总帖
 
+### 其他类型汇总：
+https://github.com/oldsento?tab=repositories
+
