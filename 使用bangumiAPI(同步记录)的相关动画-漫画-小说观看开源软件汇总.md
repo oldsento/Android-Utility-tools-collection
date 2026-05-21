@@ -1,7 +1,5 @@
 ⭕本汇总的软件大部分都支持同步bgm记录
 
-tachiyomi(漫画/aniyomi(漫画/动画系列关于窝的Tachiyomi/Mihon系列相关软件/插件/测评帖汇总
-
 https://github.com/Kototoro-app/Kototoro 安卓 动画/漫画/小说
 
 https://github.com/Animetailapp/Animetail 安卓 动画
